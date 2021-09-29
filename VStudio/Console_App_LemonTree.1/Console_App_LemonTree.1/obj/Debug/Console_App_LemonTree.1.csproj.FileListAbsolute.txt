@@ -1,0 +1,2 @@
+C:\Users\84919\Desktop\OOP\VStudio\Console_App_LemonTree.1\Console_App_LemonTree.1\obj\Debug\Console_App_LemonTree.1.csproj.AssemblyReference.cache
+C:\Users\84919\Desktop\OOP\VStudio\Console_App_LemonTree.1\Console_App_LemonTree.1\obj\Debug\Console_App_LemonTree.1.csproj.CoreCompileInputs.cache
